@@ -1,5 +1,5 @@
 - 👋 Hi, I’m amin rezaei
-- 👀 I’m interested in Full stack developer
+- 👀 I’m interested in Full stack developer and Internet of Things
 - 🌱 I’m currently learning Node.js - MongoDB - TypeScript - Socket
 - 💞️ I’m looking to collaborate on junior back-end developer at first.
 - 📫 rezaei.amin1268@gmail.com
